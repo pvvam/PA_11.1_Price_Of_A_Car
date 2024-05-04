@@ -18,7 +18,12 @@ In this application, you will explore a dataset from kaggle. The original datase
 
 ## Findings and Conclusion: 
 
-To maximize the price at which a vehicle is sold, dealerships should focus in order of importance on the below:
+Using a collected dataset of used cars and applying the CRISP-DM methodology , I have created the below notebook to analyze the dataset for price of used car.
+https://github.com/pvvam/PA_11.1_Price_Of_A_Car/blob/main/prompt_II.ipynb
+
+From my analys, I can conclude the below result. 
+
+To maximize the price at which a vehicle is sold, dealerships should focus on the below points in the order of imporatance:
 
 1. Year of the vehicle: Generally, newer vehicles command higher prices in the used car market due to factors like updated features and technology, as well as potentially lower mileage.
 2. Condition of the vehicle: Vehicles in excellent or good condition typically fetch higher prices compared to those in fair or poor condition.
